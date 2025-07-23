@@ -1,1 +1,3 @@
-# oracle-aerospace-cloud-modeling
+I am a graduate of the USC Viterbi School of Engineering with enterprise experience in aerospace strategy, cloud analytics, and defense intelligence enablement. During my time at Oracle, I worked alongside federal and commercial aviation clients to support the deployment of data-driven modeling frameworks across mission-critical operations. This repository presents a representative simulation of that work, modeled in a cloud-style format adapted for technical demonstration.
+
+The contents reflect the structural design and predictive modeling logic used to showcase operational efficiency, resource optimization, and mission assurance across large-scale aerospace platforms. While no proprietary data is included, the framework mirrors the core principles applied in client engagements that spanned both civil and defense applications.
