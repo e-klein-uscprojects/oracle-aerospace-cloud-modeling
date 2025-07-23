@@ -1,0 +1,5 @@
+AircraftID,DelayMinutes,FuelUsage,WeatherAlert,TelemetryGap
+AC001,12,5600,Yes,Low
+AC002,0,4800,No,None
+AC003,7,5100,Yes,Medium
+AC004,3,4900,No,None
